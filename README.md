@@ -10,5 +10,7 @@ You can find some of my projects om my page.
 </div>
 
 ## Game Development Skills:
-<img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" width="100">
-<img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/LÖVE.svg?raw=true" width="100">
+<div style="display: flex;">
+    <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" width="100">
+    <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/LÖVE.svg?raw=true" width="100">
+</div>
