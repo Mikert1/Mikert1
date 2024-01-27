@@ -6,4 +6,4 @@ I am learning
 
 You can find some of my projects om my page.
 
-![alt text](https://github.com/Mikert-gg/Mikert-gg/blob/main/js.png?raw=true)
+![Lua](https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true)
