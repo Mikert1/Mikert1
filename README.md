@@ -12,5 +12,7 @@ You can find some of my projects om my page.
 ## Game Development Skills:
 <div style="display: flex;">
     <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" width="100">
-    <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/LÖVE.svg?raw=true" width="100">
+    <a href="https://love2d.org">
+        <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/LÖVE.svg?raw=true" width="100">
+    </a>
 </div>
