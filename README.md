@@ -3,35 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-    <style>
-        @font-face {
-            font-family: 'Berylium';
-            src: url('berylium bd.otf') format('opentype');
-        }
-        img {
-            image-rendering: pixelated;
-            width: 100%;
-        }
-        h2 {
-        font-family: 'Berylium', sans-serif;
-        }
-        .skills {
-            font-family: 'Berylium', sans-serif;
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
-        .lang {
-            width: 50%;
-            min-width: 200px;
-            display: flex;
-        }
-        .lang img {
-            width: 100px;
-            margin-right: 10px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
