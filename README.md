@@ -3,17 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
-<img src="welcome.png">
+<img src="welcome.png" style="image-rendering: pixelated; width: 100%;">
 
-<h2>Website Development Skills:</h2>
-<div class="skills">
-    <div class="lang">
+<h2 style="font-family: 'Berylium', sans-serif;">Website Development Skills:</h2>
+<div style="
+        font-family: 'Berylium', sans-serif;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    ">
+    <div style="
+        width: 50%;
+        min-width: 200px;
+        display: flex;
+    ">
         <a href="https://www.w3schools.com/html/html_intro.asp">
-            <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/HTML.svg?raw=true" alt="HTML">
+            <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert-gg/Mikert-gg/blob/main/HTML.svg?raw=true" alt="HTML">
         </a>
         <div>
             <h4>HTML</h4>
@@ -22,9 +30,13 @@
             </a>
         </div>
     </div>
-    <div class="lang">
+    <div style="
+        width: 50%;
+        min-width: 200px;
+        display: flex;
+    ">
         <a href="https://www.w3schools.com/css/css_intro.asp">
-            <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/CSS.svg?raw=true" alt="CSS">
+            <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/CSS.svg?raw=true" alt="CSS">
         </a>
         <div>
             <h4>CSS</h4>
@@ -33,9 +45,13 @@
             </a>
         </div>
     </div>
-    <div class="lang">
+    <div style="
+        width: 50%;
+        min-width: 200px;
+        display: flex;
+    ">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-            <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/JavaScript.svg?raw=true" alt="JavaScript">
+            <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/JavaScript.svg?raw=true" alt="JavaScript">
         </a>
         <div>
             <h4>JavaScript</h4>
@@ -47,10 +63,19 @@
 </div>
 
 <h2>Game Development Skills:</h2>
-<div class="skills">
-    <div class="lang">
+<div style="
+        font-family: 'Berylium', sans-serif;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    ">
+    <div style="
+        width: 50%;
+        min-width: 200px;
+        display: flex;
+    ">
         <a href="https://www.lua.org/about.html">
-            <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" alt="Lua">
+            <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" alt="Lua">
         </a>
         <div>
             <h4>Lua</h4>
@@ -59,9 +84,13 @@
             </a>
         </div>
     </div>
-    <div class="lang">
+    <div style="
+        width: 50%;
+        min-width: 200px;
+        display: flex;
+    ">
         <a href="https://love2d.org">
-            <img src="https://github.com/Mikert-gg/Mikert-gg/blob/main/L%C3%96VE.svg?raw=true" alt="LÖVE">
+            <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/L%C3%96VE.svg?raw=true" alt="LÖVE">
         </a>
         <div>
             <h4>Love2D</h4>
