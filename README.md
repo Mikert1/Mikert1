@@ -1,6 +1,4 @@
-### Hello i am Mike.
-
-You can find some of my projects om my page.
+<img src="welcome.png" style="image-rendering: pixelated; width: 100%">
 
 ## Website Development Skills:
 <div style="display: flex;">
