@@ -24,7 +24,7 @@
 <h2>Game Development Skills:</h2>
 <div>
     <a href="https://www.lua.org/about.html">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/Lua-Dark.svg?raw=true" alt="Lua">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/Lua.png?raw=true" alt="Lua">
     </a>
     <a href="https://love2d.org">
         <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/LÖVE.png?raw=true" alt="LÖVE">
