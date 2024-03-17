@@ -11,23 +11,23 @@
 <h2 style="font-family: 'Berylium', sans-serif;">Website Development Skills:</h2>
 <div>
     <a href="https://www.w3schools.com/html/html_intro.asp">
-        <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert-gg/Mikert-gg/blob/main/HTML.svg?raw=true" alt="HTML">
+        <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert1/Mikert1/blob/main/HTML.svg?raw=true" alt="HTML">
     </a>
     <a href="https://www.w3schools.com/css/css_intro.asp">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/CSS.svg?raw=true" alt="CSS">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/CSS.svg?raw=true" alt="CSS">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/JavaScript.svg?raw=true" alt="JavaScript">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/JavaScript.svg?raw=true" alt="JavaScript">
     </a>
 </div>
 
 <h2>Game Development Skills:</h2>
 <div>
     <a href="https://www.lua.org/about.html">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/Lua-Dark.svg?raw=true" alt="Lua">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/Lua-Dark.svg?raw=true" alt="Lua">
     </a>
     <a href="https://love2d.org">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert-gg/Mikert-gg/blob/main/L%C3%96VE.svg?raw=true" alt="LÖVE">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/LÖVE.png?raw=true" alt="LÖVE">
     </a>
 </div>
 
