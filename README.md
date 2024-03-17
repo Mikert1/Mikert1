@@ -11,7 +11,7 @@
 <h2 style="font-family: 'Berylium', sans-serif;">Website Development Skills:</h2>
 <div>
     <a href="https://www.w3schools.com/html/html_intro.asp">
-        <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert1/Mikert1/blob/main/HTML.svg?raw=true" alt="HTML">
+        <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert1/Mikert1/blob/main/HTML.png?raw=true" alt="HTML">
     </a>
     <a href="https://www.w3schools.com/css/css_intro.asp">
         <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/CSS.svg?raw=true" alt="CSS">
