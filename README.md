@@ -14,7 +14,7 @@
         <img style="width: 100px; margin-right: 10px;'"  src="https://github.com/Mikert1/Mikert1/blob/main/HTML.png?raw=true" alt="HTML">
     </a>
     <a href="https://www.w3schools.com/css/css_intro.asp">
-        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/CSS.svg?raw=true" alt="CSS">
+        <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/CSS.png?raw=true" alt="CSS">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
         <img style="width: 100px; margin-right: 10px;'" src="https://github.com/Mikert1/Mikert1/blob/main/Javascript.png?raw=true" alt="JavaScript">
