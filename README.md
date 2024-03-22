@@ -19,6 +19,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
         <img style="width: 100px; image-rendering: pixelated;'" src="https://github.com/Mikert1/Mikert1/blob/main/Javascript.png?raw=true" alt="JavaScript">
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+        <img style="width: 100px; image-rendering: pixelated;'" src="https://github.com/Mikert1/Mikert1/blob/main/php.png?raw=true" alt="PHP">
+    </a>
 </div>
 
 <h2>Game Development Skills:</h2>
