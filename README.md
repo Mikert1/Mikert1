@@ -36,7 +36,7 @@
 <hr>
 <div>
     <a href="https://git.io/streak-stats">
-        <img width="80%" style="margin-left: 10%; margin-right: 10%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikert1&theme=transparent&fire=00FFFC&ring=008A89&currStreakNum=00FFFE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B3B3B3&sideNums=00807A&border=8F8F8F" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikert1&theme=transparent&fire=00FFFC&ring=008A89&currStreakNum=00FFFE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B3B3B3&sideNums=00807A&border=8F8F8F" alt="GitHub Streak" />
     </a>
 </div>
 </body>
