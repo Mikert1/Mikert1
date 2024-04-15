@@ -33,6 +33,11 @@
         <img style="width: 100px; image-rendering: pixelated;'" src="https://github.com/Mikert1/Mikert1/blob/main/LÖVE.png?raw=true" alt="LÖVE">
     </a>
 </div>
-
+<hr>
+<div>
+    <a href="https://git.io/streak-stats">
+        <img width="80%" style="margin-left: 10%; margin-right: 10%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikert1&theme=transparent&fire=00FFFC&ring=008A89&currStreakNum=00FFFE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B3B3B3&sideNums=00807A&border=8F8F8F" alt="GitHub Streak" />
+    </a>
+</div>
 </body>
 </html>
