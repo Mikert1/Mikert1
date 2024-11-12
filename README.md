@@ -8,7 +8,7 @@
 
 <img src="welcome.png" style="image-rendering: pixelated; width: 100%;">
 <a href="https://mikert.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f2306b63-ff49-461a-992c-526fa6fbd6e9" style="width: 100%;">
+    <img src="projects.png" style="width: 100%;">
 </a>
 
 
